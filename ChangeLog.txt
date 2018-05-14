@@ -2,6 +2,7 @@
 
 NOTE: Please place changes under the version that will be released next.
 
+<<<<<<< HEAD
 ************************* Version 9.08-a: ******************************
 
 IMP: (6/17/17, DN) Add Ngspice to the list of Spice engines.
@@ -29,6 +30,8 @@ FIX: Softly cancel reading when raw file contains 0 points.
 BUG: (12/6/16, SMR) Antenna check fails, per user complaint.
 FIX: Revert to 9.05 version of ERCAntenna.java
 
+=======
+>>>>>>> 2427546a8da4c5b6262e4d9adad659aaa2a75f6e
 ************************* Version 9.07: ******************************
 
 BUG: (8/4/16, SMR) Cell extraction does not work on schematics.
